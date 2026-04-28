@@ -205,24 +205,6 @@ GEMINI_API_KEY=your_key
 
 ---
 
-# 🔮 Future Improvements
-
-```plaintext
-🔥 Push notifications (real-time alerts)
-🔥 Live disaster map (Google Maps)
-🔥 AI voice assistant
-🔥 Predictive disaster modeling
-🔥 Multi-admin collaboration
-```
-
----
-
-# 👨‍💻 Author
-
-Kashyap
-
----
-
 # ⭐ Support
 
 If you find this project useful, give it a ⭐ on GitHub
