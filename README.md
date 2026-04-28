@@ -3,7 +3,9 @@
 A full-stack, real-time disaster response ecosystem that combines **mobile reporting, AI intelligence, automated alert scraping, and an admin control platform** to improve emergency response and public safety.
 
 ---
-
+#Password for Login:
+AdminId: admin@ndma.gov.in
+Password: admin123
 # 🌐 Project Overview
 
 This system is designed to bridge the gap between **citizens, authorities, and real-time disaster intelligence**.
