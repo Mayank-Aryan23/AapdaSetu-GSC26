@@ -1,5 +1,5 @@
 {
-  "name": "Grand Final Workflow",
+  "name": "n8n Workflow Data Fetch",
   "nodes": [
     {
       "parameters": {
